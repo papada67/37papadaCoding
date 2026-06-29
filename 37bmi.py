@@ -10,7 +10,7 @@ print("ผลbmi : " , totei_bmi)
 
 if totei_bmi < 18.5 :
     print("ผลของคุณ : น้ำหนักน้อย ")
-elif totei_bmi <= 18.5-22.9 :
+elif totei_bmi <= -22.9 :
     print("ผลของคุณ : ปกติ ")
 else :
     print("ผลของคุณ : อ้วน ")
