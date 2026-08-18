@@ -32,3 +32,6 @@
 
 3/8/69
 mini project เบื้องต้น / Mini Project 1 - Pitch Discussion
+
+18/8/69
+ทำมินิโปรเจค,แก้โค่้ด
