@@ -38,3 +38,6 @@ mini project เบื้องต้น / Mini Project 1 - Pitch Discussion
 
 18/8/69
 ทำมินิโปรเจค,แก้โค่้ด
+
+31/8/69
+code swap
